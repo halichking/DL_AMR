@@ -36,7 +36,7 @@ SNR_LIST  = [-10, -5, 0, 5, 10, 15, 20]
 MOD_NAMES = ['ASK', 'FSK', 'PSK', 'LFM']   # 标签对应顺序
 
 # 结果保存目录
-RESULT_DIR = './CNN-BiGRU_results'
+RESULT_DIR = 'CNN-BiGRU_results'
 os.makedirs(RESULT_DIR, exist_ok=True)
 
 # 超参数
