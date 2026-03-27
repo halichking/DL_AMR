@@ -19,4 +19,3 @@ Signal_Dataset_m/
 test/
 project/
 CNN-GRU.py
-signal_generate.py
